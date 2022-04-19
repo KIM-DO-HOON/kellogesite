@@ -128,8 +128,7 @@ a.common-btn {
   height: 18px;
   float: right;
   font-size: 14px;
-  /* color: white; */
-  color: black;
+  color: white;
   border-radius: 100%;
   background: #ffc01d;
   margin-left: 4px;
